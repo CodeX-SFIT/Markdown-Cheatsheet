@@ -19,8 +19,7 @@ This is intended as a quick reference and showcase. For more complete info, see 
 
 Headers
 ------
-'''
-# H1
+'''# H1
 ## H2
 ### H3
 #### H4
@@ -33,8 +32,7 @@ Alt-H1
 ======
 
 Alt-H2
-------
-'''
+------'''
 # H1
 ## H2
 ### H3
