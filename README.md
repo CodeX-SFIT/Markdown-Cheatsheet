@@ -1,6 +1,6 @@
 Markdown-Cheatsheet
 ===
-This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec] (https://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page.](https://docs.github.com/en/github/writing-on-github)
+This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](https://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page.](https://docs.github.com/en/github/writing-on-github)
 
 ###Table of Contents
 
@@ -19,7 +19,8 @@ This is intended as a quick reference and showcase. For more complete info, see 
 
 Headers
 ------
-'''# H1
+```
+# H1
 ## H2
 ### H3
 #### H4
@@ -32,7 +33,9 @@ Alt-H1
 ======
 
 Alt-H2
-------'''
+------
+```
+
 # H1
 ## H2
 ### H3
