@@ -4,18 +4,18 @@ This is intended as a quick reference and showcase. For more complete info, see 
 
 ###Table of Contents
 
-[Headers]
-[Emphasis]
-[Lists]
-[Links]
-[Images]
-[Code and Syntax Highlighting]
-[Tables]
-[Blockquotes]
-[Inline HTML]
-[Horizontal Rule]
-[Line Breaks]
-[YouTube Videos]
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+[Lists](#lists)  
+[Links](#links)  
+[Images](#images)  
+[Code and Syntax Highlighting](#code)  
+[Tables](#tables)  
+[Blockquotes](#blockquotes)  
+[Inline HTML](#html)  
+[Horizontal Rule](#hr)  
+[Line Breaks](#lines)  
+[YouTube Videos](#videos) 
 
 Headers
 ------
